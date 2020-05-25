@@ -14,4 +14,12 @@ http://read.pudn.com/downloads779/ebook/3085493/Getting%20Started%20with%20Tenso
 Since the early release of tensorflow version 2.0, when following links found on google be aware to check for the version. It is not meant to say they are not good, even they might not be accurate to follow in terms of examples, they can provide a good theoretical basis.
 
 
+For this Colab-Workshop we will have:
+1. Session and overview of sites and basics of tensorflow
+2. Exercise on reading data
+3. Creating a forecasting model 
+
+
+
+
 
