@@ -2,7 +2,7 @@
 
 This exercise is meant to cover a short description of the sites that provide data and Machine learning tools as well as to introduce some of the main principles of using this tools. 
 
-The workshop doesnot aim at describing the algorithms as this was already covered in the lectures. 
+This workshop does not aim at describing the algorithms as this was already covered in the lectures. 
 
 
 As an introduction to this workshop it is recommended to explore the following links
