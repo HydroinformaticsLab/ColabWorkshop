@@ -20,7 +20,8 @@ For this Colab-Workshop we will have:
 
 
 
-This is a general free book of Python and machine learning and although tensorflow in the book is old, the concepts are well described.
+The following link will provide you some free books of Python and machine learning and although tensorflow in the book is old, the concepts are well described.
+
 http://diggerdnepr.ddns.net/wp-content/uploads/2019/02/python-machine-learning-2nd.pdf
 http://read.pudn.com/downloads779/ebook/3085493/Getting%20Started%20with%20TensorFlow.pdf
 
