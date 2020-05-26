@@ -5,7 +5,8 @@ This exercise is meant to cover a short description of the sites that provide da
 This workshop does not aim at describing the algorithms as this was already covered in the lectures. 
 
 
-As an introduction to this workshop it is recommended to explore the following links
+As an introduction to this workshop it is recommended to explore the following tutorial from zero to Hero. 
+
 https://www.youtube.com/watch?v=KNAWp2S3w94
 
 
