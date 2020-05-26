@@ -6,9 +6,8 @@ The workshop doesnot aim at describing the algorithms as this was already covere
 
 
 As an introduction to this workshop it is recommended to explore the following links
+https://www.youtube.com/watch?v=KNAWp2S3w94
 
-
-http://read.pudn.com/downloads779/ebook/3085493/Getting%20Started%20with%20TensorFlow.pdf
 
 Tensorflow version 2.0 is relatively new, and links found on google could be pointing to the old version. 
 
@@ -22,4 +21,17 @@ For this Colab-Workshop we will have:
 
 This is a general free book of Python and machine learning and although tensorflow in the book is old, the concepts are well described.
 http://diggerdnepr.ddns.net/wp-content/uploads/2019/02/python-machine-learning-2nd.pdf
+http://read.pudn.com/downloads779/ebook/3085493/Getting%20Started%20with%20TensorFlow.pdf
+
+
+As part of the overview these sites will be described
+ 
+Firebase - Mobile and cloud ML
+https://www.youtube.com/watch?v=ejrn_JHksws&feature=youtu.be&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL
+
+Earth Engine
+https://earthengine.google.com/
+
+Kaggle (Google)
+https://www.kaggle.com/
 
