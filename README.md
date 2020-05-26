@@ -37,3 +37,5 @@ https://earthengine.google.com/
 Kaggle (Google)
 https://www.kaggle.com/
 
+Google AI cloud
+https://cloud.google.com/ai-platform
